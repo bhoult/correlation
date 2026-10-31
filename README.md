@@ -1,5 +1,7 @@
 # correlation
 
+Made by Claude Opus 5.5, instigated by [Brandon Hoult](https://hoult.co).
+
 <p align="center">
   <img src="pendulum/pendulum.svg" width="500" alt="Three triple pendulums start a billionth of a radian apart, move as one for about ten seconds, then follow completely different paths">
 </p>
